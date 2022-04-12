@@ -1,0 +1,114 @@
+:root{
+    /*creo un color llamado --mate */
+    --mate: #52dafb;
+    /*creo un color llamado --nomenclatura-valen */
+    --nomenclatura-valen: #e7e41c;
+    /*creo un color llamado --Geo */
+    --Geo: #5fdf00;
+    /*creo un color llamado --Física */
+    --Física: #40c293;
+    /*creo un color llamado --bio */
+    --bio: #faaa09;
+    /*creo un color llamado --caste */
+    --caste: #a00000;
+    /*creo un color llamado --cultura */
+    --cultura: #548a56;
+    /*creo un color llamado --ingles */
+    --ingles: #5d548a;
+    /*creo un color llamado --ef */
+    --ef: #195c94;
+    /*creo un color llamado --tutoria */
+    --tutoria: #8431ff;
+    /*creo un color llamado --info */
+    --info: #3bd876;
+    /*creo un color llamado --reli */
+    --reli: #7d811e;
+    /*creo un color llamado --patio */
+    --patio: #5b7dca;
+    /*creo un color llamado --horas */
+    --horas: #6dd350;
+    /*creo un color llamado --dias */
+    --dias: #d1455e;
+
+}
+.mate{
+    /*utilizo el color que he creado antes (--mate) */
+    background-color: var(--mate);
+    width: 50px;
+}
+.nomenclatura-valen{
+    /*utilizo el color que he creado antes (--nomenclatura-valen) */
+    background-color: var(--nomenclatura-valen);
+    width: 50px;
+}
+.Geo{
+    /*utilizo el color que he creado antes (--Geo) */
+    background-color: var(--Geo);
+    width: 50px;
+}
+.Física{
+    /*utilizo el color que he creado antes (--Física) */
+    background-color: var(--Física);
+    width: 50px;
+}
+.bio{
+    /*utilizo el color que he creado antes (--bio) */
+    background-color: var(--bio);
+    width: 50px;
+}
+.caste{
+    /*utilizo el color que he creado antes (--caste) */
+    background-color: var(--caste);
+    width: 50px;
+}
+.cultura{
+    /*utilizo el color que he creado antes (--cultura) */
+    background-color: var(--cultura);
+    width: 50px;
+}
+.ingles{
+    /*utilizo el color que he creado antes (--ingles) */
+    background-color: var(--ingles);
+    width: 50px;
+}
+.ef{
+    /*utilizo el color que he creado antes (--ef) */
+    background-color: var(--ef);
+    width: 50px;
+}
+.tutoria{
+    /*utilizo el color que he creado antes (--tutoria) */
+    background-color: var(--tutoria);
+    width: 50px;
+}
+.info{
+    /*utilizo el color que he creado antes (--info) */
+    background-color: var(--info);
+    width: 50px;
+}
+.reli{
+    /*utilizo el color que he creado antes (--reli) */
+    background-color: var(--reli);
+    width: 50px;
+}
+.patio{
+    /*utilizo el color que he creado antes (--patio) */
+    background-color: var(--patio);
+    width: 50px;
+}
+.horas{
+    /*utilizo el color que he creado antes (--horas) */
+    background-color: var(--horas);
+    width: 50px;
+}
+table{
+    margin: 30px auto;
+}
+.dias{
+    /*utilizo el color que he creado antes (--dias) */
+    background-color: var(--dias);
+    width: 50px;
+}
+.h1{
+    text-align: center;
+}
